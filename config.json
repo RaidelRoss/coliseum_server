@@ -1,10 +1,14 @@
 {
-"upgrade":1,
-"files":
-[
-"s0.surv",
-"s1.surv",
-"s2.surv",
-"s3.surv"
-]
+    "directories": [
+        {
+            "version": "1.1",
+            "nameDirectory": "survival_1.1",
+            "files": [
+                "s0.surv",
+                "s1.surv",
+                "s2.surv",
+                "s3.surv"
+            ]
+        }
+    ]
 }
