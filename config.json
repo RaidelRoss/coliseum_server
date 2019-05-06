@@ -10,5 +10,21 @@
                 "s3.surv"
             ]
         }
+    ],
+	"linksDownload": [
+        {
+            "namePlatform": "Android",
+            "nameSite": "Apklis",
+            "size": "90",
+            "version": "1.0",
+            "link": "https://www.apklis.cu/"
+        },
+        {
+            "namePlatform": "PC",
+            "nameSite": "La Base",
+            "size": "90",
+            "version": "1.0",
+            "link": "https://www.apklis.cu/"
+        }
     ]
 }
